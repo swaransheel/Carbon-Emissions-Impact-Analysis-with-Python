@@ -7,15 +7,15 @@ This project explores the relationship between **CO₂ concentrations** and **te
 ## 📁 Table of Contents
 
 - [Overview](#-Overview)
-- [Dataset Description](#Dataset-Description)
-- [Key Objectives](#key-objectives)
-- [Data Preprocessing](#data-preprocessing)
-- [Visual Analysis](#visual-analysis)
-- [Statistical Analysis](#statistical-analysis)
-- [Modeling with Regression](#modeling-with-regression)
-- [Conclusion](#conclusion)
-- [Installation & Requirements](#installation--requirements)
-- [How to Run](#how-to-run)
+- [Dataset Description](#-Dataset-Description)
+- [Key Objectives](#-key-objectives)
+- [Data Preprocessing](#-data-preprocessing)
+- [Visual Analysis](#-visual-analysis)
+- [Statistical Analysis](#-statistical-analysis)
+- [Modeling with Regression](#-modeling-with-regression)
+- [Conclusion](#-conclusion)
+- [Installation & Requirements](#-installation--requirements)
+- [How to Run](#-how-to-run)
 
 
 ---
