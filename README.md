@@ -58,31 +58,31 @@ In this project, we:
 
 ### 1. Time-Series Plot of Temperature and CO₂
 
-![Time Series of Temperature and CO2](Images/Time Series of Temperature and CO2.png)
+![Time Series of Temperature and CO2](Images/Time%20Series%20of%20Temperature%20and%20CO2.png)
 
 ---
 
 ### 2. Correlation Heatmap
 
-![Correlation Heatmap](Images/Correlation Heatmap.png)
+![Correlation Heatmap](Images/Correlation%20Heatmap.png)
 
 ---
 
 ### 3. CO₂ vs Temperature Scatter Plot
 
-![Scatter Plot](Images/Scatter Plot.png)
+![Scatter Plot](Images/Scatter%20Plot.png)
 
 ---
 
 ### 4. Trend Lines for Temperature and CO₂
 
-![Trend Lines](Images/Trend Lines.png)
+![Trend Lines](Images/Trend%20Lines.png)
 
 ---
 
 ### 5. Seasonal Variation in CO₂
 
-![Seasonal CO2 Variation](Images/Seasonal CO2 Variation.png)
+![Seasonal CO2 Variation](Images/Seasonal%20CO2%20Variation.png)
 
 ---
 
@@ -117,7 +117,7 @@ Granger P-values:  {'Lag1': 0.0142, 'Lag2': 0.0325, 'Lag3': 0.0871}
 
 ### 📄 Regression Summary Output
 
-![Regression Output](Images\regression_summary.png)
+![Regression Output](Images/regression_summary.png)
 
 ---
 
