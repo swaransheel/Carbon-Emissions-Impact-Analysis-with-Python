@@ -17,12 +17,12 @@ This project explores the relationship between **CO₂ concentrations** and **te
 - [Installation & Requirements](#-installation--requirements)
 - [How to Run](#%EF%B8%8F-how-to-run)
 
-
 ---
 
 ## 🧠 Overview
 
 In this project, we:
+
 - Analyze temperature anomalies and atmospheric CO₂ levels over time.
 - Visualize temporal trends and seasonal variations.
 - Perform correlation and causality analysis.
@@ -97,6 +97,7 @@ In this project, we:
 ---
 
 ### 📌 Sample Results:
+
 ```
 Pearson Correlation:  0.89
 Spearman Correlation:  0.85
@@ -116,7 +117,7 @@ Granger P-values:  {'Lag1': 0.0142, 'Lag2': 0.0325, 'Lag3': 0.0871}
 
 ### 📄 Regression Summary Output
 
-![Regression Output](Images/regression_summary.png)
+![Regression Output](Images\regression_summary.png)
 
 ---
 
@@ -155,6 +156,5 @@ All graphs will be saved in the `/images/` folder.
 ## 📌 Author
 
 - **Chinthamalla Swaransheel**
-
 
 ---
