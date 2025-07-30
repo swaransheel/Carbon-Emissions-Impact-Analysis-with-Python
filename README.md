@@ -15,7 +15,7 @@ This project explores the relationship between **CO₂ concentrations** and **te
 - [Modeling with Regression](#-modeling-with-regression)
 - [Conclusion](#-conclusion)
 - [Installation & Requirements](#-installation--requirements)
-- [How to Run](#-how-to-run)
+- [How to Run](#%EF%B8%8F-how-to-run)
 
 
 ---
