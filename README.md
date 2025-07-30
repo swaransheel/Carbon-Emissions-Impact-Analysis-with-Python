@@ -6,7 +6,7 @@ This project explores the relationship between **CO₂ concentrations** and **te
 
 ## 📁 Table of Contents
 
-- [Overview](#Overview)
+- [Overview](#-Overview)
 - [Dataset Description](#Dataset-Description)
 - [Key Objectives](#key-objectives)
 - [Data Preprocessing](#data-preprocessing)
