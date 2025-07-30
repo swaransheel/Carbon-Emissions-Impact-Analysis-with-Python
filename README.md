@@ -154,7 +154,7 @@ All graphs will be saved in the `/images/` folder.
 
 ## 📌 Author
 
-- **Your Name Here**
-- [LinkedIn/GitHub (optional)]
+- **Chinthamalla Swaransheel**
+
 
 ---
